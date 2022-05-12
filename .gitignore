@@ -1,0 +1,5 @@
+# 项目排除路径
+/01-three-base/node_modules/
+/01-three-base/.parcel-cache/
+/01-three-base/.cache/
+/01-three-base/dist/
