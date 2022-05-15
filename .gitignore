@@ -3,3 +3,11 @@
 /01-three-base/.parcel-cache/
 /01-three-base/.cache/
 /01-three-base/dist/
+/02-full/node_modules/
+/02-full/.parcel-cache/
+/02-full/.cache/
+/02-full/dist/
+/03-physics/node_modules/
+/03-physics/.parcel-cache/
+/03-physics/.cache/
+/03-physics/dist/
