@@ -6,9 +6,9 @@ import * as CANNON from 'cannon-es'
 // 原始着色器
 
 // 顶点着色器
-import basicVertexShader from '../shader/raw/vertex.glsl'
+import basicVertexShader from '../shader/deep/vertex.glsl'
 // 片元着色器
-import basicFragmentShader from '../shader/raw/fragment.glsl'
+import basicFragmentShader from '../shader/deep/fragment.glsl'
 
 // 创建场景
 const scene = new THREE.Scene()
